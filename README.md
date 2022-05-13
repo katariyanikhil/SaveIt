@@ -9,7 +9,7 @@ All in One Social Media (Facebook, WhatsApp, Instagram, YouTube, Tiktok ) downlo
 ### Support Me
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> * [PayPal](https://paypal.me/payme3105/)
+> * [PayPal](https://paypal.me/katariyanikhil/)
 > * [Buy Me a Coffee](https://www.buymeacoffee.com/katariyanikhil)
 
 
